@@ -5,8 +5,9 @@ Stack cố định: **Next.js 16 (App Router) · Vercel · Supabase (PostgreSQL)
 
 | Mục | Link |
 |---|---|
-| App (Vercel) | **https://__ĐIỀN_SAU_KHI_DEPLOY__.vercel.app** — mở lên là gặp màn hình đăng nhập |
-| Supabase project | **https://supabase.com/dashboard/project/__PROJECT_REF__** |
+| App (Vercel) | **https://yuki-cold-chain-wms.vercel.app** — mở lên là gặp màn hình đăng nhập |
+| Supabase project | **https://supabase.com/dashboard/project/citmjbfyjqvaljohsczk** |
+| Source code | https://github.com/kiendt-0052/yuki-cold-chain-wms |
 | Danh sách màn hình bản chốt + phần mock | [docs/screen-feature-list.md](docs/screen-feature-list.md) |
 
 ## Tài khoản demo (dùng được tới hết LAB-6)
